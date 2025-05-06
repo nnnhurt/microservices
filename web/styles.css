@@ -1,0 +1,7 @@
+div#output {
+   height: 400px;
+   width: 600px;
+   max-height: 400px;
+   overflow: scroll;
+   border: 1px solid black;
+}
